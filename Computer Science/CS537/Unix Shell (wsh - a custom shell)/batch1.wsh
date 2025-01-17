@@ -1,0 +1,11 @@
+cd /
+pwd
+cd /home
+pwd
+cd /home/
+pwd
+cd /usr/bin
+pwd
+cd /usr/bin/
+pwd
+exit

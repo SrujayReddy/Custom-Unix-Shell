@@ -1,0 +1,7 @@
+local A=ls
+export A=grep
+local B=ls
+export C=tempdir
+mkdir $VAR $C
+cd $C
+touch $A
